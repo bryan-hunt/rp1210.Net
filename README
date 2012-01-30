@@ -1,0 +1,5 @@
+
+
+An RP1210 wrapper written in C# for .NET applications for use in communicating
+with automotive and industrial networks using commonly available hardware that 
+confirms to the RP1210a or RP1210b specifications.

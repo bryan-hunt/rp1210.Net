@@ -12,6 +12,8 @@
 # Generated Directories #
 bin
 */bin/*
+obj
+*/obj/*
 
 # Object and List Files #
 *.d

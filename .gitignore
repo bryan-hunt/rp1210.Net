@@ -1,0 +1,21 @@
+# CVS Files #
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore 
+
+# Mercurial Files #
+/.hg/*
+*/.hg/*
+.hgignore
+
+# Generated Directories #
+bin
+*/bin/*
+
+# Object and List Files #
+*.d
+*.o
+*.crf
+*.__i
+
